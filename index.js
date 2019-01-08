@@ -1,1 +1,1 @@
-alert('Dudu')
+alert('Dudu');
